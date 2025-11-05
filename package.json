@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "@nktkas/hyperliquid": "0.25.5",
+    "axios": "^1.13.1",
+    "bignumber.js": "^9.3.1",
+    "date-fns": "^4.1.0",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "starknet": "^7.6.4",
     "viem": "^2.38.4"
   },
   "devDependencies": {
